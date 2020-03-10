@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://djordje21.github.io/Mokranjac/"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "https://rubygems.org/profiles/djolodjolo"
+  spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/djordje21/djoleapp_view_tool"
